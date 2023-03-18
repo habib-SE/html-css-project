@@ -1,0 +1,97 @@
+.top-container{
+    
+    
+    background: color #e4f9f5;
+}
+
+
+body{
+    text-align: center;
+    margin: 0 auto 0 auto;
+    font-family: 'Merriweather',serif;
+}
+.mountain-img{
+    width: 400px;
+    height: 200px;
+}
+.bottom-cloud{
+    position: absolute;
+    margin-right: 500px;
+}
+.top-cloud{
+    margin-left: 500px;
+}
+.mountain-img{
+margin-top: 100px;
+}
+h1{
+    font-family: 'sacramento',cursive;
+    color: #bf6666;
+}
+
+
+h2{
+    font-family: content '\f8f6',sans-serif;
+    color: #6667bf;
+}
+.profile{
+    margin-top: 5px;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    line-height: 2;
+
+}
+.btn{
+    margin-top: 50px;
+    
+        background: #3498db;
+        background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+        background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+        background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+        background-image: -o-linear-gradient(top, #3498db, #2980b9);
+        background-image: linear-gradient(to bottom, #3498db, #2980b9);
+        -webkit-border-radius: 15;
+        -moz-border-radius: 15;
+        border-radius: 15px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        border: solid #1f628d 2px;
+        text-decoration: none;
+}
+      
+      .btn:hover {
+        background: #3cb0fd;
+        background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+      }
+
+.bottom-container{
+    padding: 50px 0px 20px;
+     background-color: #008CBA; 
+   
+}
+a{
+    color: #3cb0fd;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #eaf6f6;
+}
+.copyright{
+    padding: 20px 0px;
+    font-size: 0.75rem;
+    color: #eaf6f6;
+}
+hr{
+    border: dotted;
+    color: #e4f9f5;
+}
